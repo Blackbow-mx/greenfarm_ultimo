@@ -1,0 +1,138 @@
+.form-select{
+    margin-bottom: 10px;
+}
+.card-header{
+    background-color:rgb(177, 177, 177);
+   
+
+    
+}
+.card{
+    border: 1px solid #000000;
+    width: 75%;
+    height: 9%;
+    max-height: 9%;
+    min-height: 9%;
+
+}
+.card_0{
+    border: 1px solid #000000;
+    width: 185%;
+    height: 9%;
+    max-height: 9%;
+    min-height: 9%;
+
+}
+.card_04{
+    border: 1px solid #000000;
+    width: 75%;
+    margin-top: 16%;
+    height: 9%; 
+    max-height: 9%;
+    min-height: 9%; 
+}
+.card_02{
+    border: 1px solid #000000;
+    width: 75%;
+    margin-top: 15%;
+    height: 9%; 
+    max-height: 9%;
+    min-height: 9%; 
+}  
+
+.btn.btn-primary{
+width: auto;
+height: auto;
+display: block;
+align-items: flex-end;
+justify-content: center;
+
+
+}
+
+.col{
+    max-width: 50%;
+    min-width: 50%;
+    
+}
+@media screen and (max-width: 1300px) {
+    .col{
+        max-width: 50%;
+        min-width: 50%;
+        
+    }
+    .card_0{
+        border: 1px solid #000000;
+        width: 76%;
+        height: 9%;
+        max-height: 9%;
+        min-width: 30px;
+        max-width:  76%;
+         
+    
+    }
+    .card{
+        border: 1px solid #000000;
+        width: 76%;
+        height: 9%;
+      
+        max-width:  76%;
+        min-width: 30px;
+    }
+    .card_04{
+        border: 1px solid #000000;
+        width: 76%;
+        max-width:  76%;
+        min-width: 30px;
+        height: 9%;
+        max-height: 9%;
+        
+        margin-top: 26%; 
+    }
+    
+    }
+    @media screen and (max-width: 760px) {
+        .col{
+            max-width: 50%;
+            min-width: 50%;
+            
+        }
+        .card_0{
+            border: 1px solid #000000;
+            width: 76%;
+            height: 9%;
+            max-height: 9%;
+            
+            max-width:  76%;
+            min-width: 30px;
+        
+        }
+        .card{
+            border: 1px solid #000000;
+            width: 76%;
+            height: 9%;
+            max-height: 9%;
+            
+            max-width:  76%;
+            min-width: 30px;
+        }
+        .card_04{
+            border: 1px solid #000000;
+            width: 76%;
+            max-width:  76%;
+            min-width: 30px;
+            height: 9%;
+            max-height: 9%;
+           
+            margin-top: 260%; 
+        }
+        .card_02{
+            
+            margin-bottom:"100px";
+            margin-top:"flex";
+            max-width:  76%;
+            min-width:  76%;
+        }
+        
+        }
+    
